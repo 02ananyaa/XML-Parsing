@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookstore>
+    <book id="b001">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <genre>Programming</genre>
+        <price currency="USD">45.00</price>
+        <publish_date>2018-05-08</publish_date>
+    </book>
+    <book id="b002">
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <genre>Programming</genre>
+        <price currency="USD">50.00</price>
+        <publish_date>2008-08-11</publish_date>
+    </book>
+    <book id="b003">
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt, David Thomas</author>
+        <genre>Programming</genre>
+        <price currency="USD">42.99</price>
+        <publish_date>1999-10-30</publish_date>
+    </book>
+    <book id="b004">
+        <title>Design Patterns</title>
+        <author>Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides</author>
+        <genre>Software Engineering</genre>
+        <price currency="USD">76.00</price>
+        <publish_date>1994-10-31</publish_date>
+    </book>
+</bookstore>
