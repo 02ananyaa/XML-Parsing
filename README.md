@@ -34,7 +34,7 @@ The DOM parser provides an in-memory representation of the entire XML document, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/XML-Parsing.git
+    git clone https://github.com/02ananyaa/XML-Parsing.git
     ```
 
 2. Navigate to the project directory:
