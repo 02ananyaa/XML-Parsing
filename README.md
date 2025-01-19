@@ -51,3 +51,31 @@ The DOM parser provides an in-memory representation of the entire XML document, 
 
 1. **Read the XML file**: The project reads an XML file, parses its contents, and prints the values of different tags.
 2. **Modify the XML file**: The project allows for modifying values in the XML, such as updating the price in a book entry.
+
+## Screenshots
+
+### 1. Sample XML File
+This is the sample XML file used as input in the project:
+
+![Sample XML File](screenshots/sample-xml.png)
+
+---
+
+### 2. Reading XML File
+This is the output after reading the XML file:
+
+![Reading XML File Output](screenshots/read-xml.png)
+
+---
+
+### 3. Updating XML File
+This is the process output while modifying the XML file:
+
+![Updating XML File Process](screenshots/modify.png)
+
+---
+
+### 4. Updated XML File
+This is the final updated XML file reflecting the modifications:
+
+![Updated XML File Output](screenshots/updated-xml.png)
